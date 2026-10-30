@@ -1,0 +1,3 @@
+the contents of source.txt gets copied here as
+  (Hello, this is my Python program.
+I am learning file handling.)
